@@ -13,7 +13,7 @@ public class Director {
         this.imbdRating = imbdRating;
     }
 
-    public String getName(){
+    public String getName() {
         return name;
     }
 
